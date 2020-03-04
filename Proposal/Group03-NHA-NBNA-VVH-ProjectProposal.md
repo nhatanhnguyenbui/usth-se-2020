@@ -28,11 +28,10 @@ Note: cause of finance, we use free host provided by http://000webhost.com
 
 We take a structured approach to web design. Our development process was created to ensure every project is on-time. Once our web design project kicks off, here’s what to expect:
 - Initial Planning
-- Wireframing
 - Mockups
-- Copy & Graphics
+- Graphics
 - Development
 - Testing
-- Deployment & Optimization
+
 
 
